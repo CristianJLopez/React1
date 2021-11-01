@@ -1,2 +1,1 @@
-# React1
-Learning React
+React Mundial Information
