@@ -8,7 +8,7 @@ function App() {
   return (
     <BrowserRouter>
         <h1 id="tituloPrincipal">Informacion basica mundial</h1>
-        <button id="btn"><Link to="/acerca" id="btn">Acerca de</Link></button>
+        <button id="btn"><Link to="/acerca" id="btn">Perritos</Link></button>
         <button id="btn"><Link to="/" id="btn">Pagina principal</Link></button> 
         <button id="btn"><Link to="/paises" id="btn">Paises</Link></button> 
         <hr/>
